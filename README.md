@@ -82,7 +82,7 @@ A demo of the product is available only upon request.
 ### 2. [Eurobenzina](https://play.google.com/store/apps/details?id=com.spacedev.eurobenzina&hl=en_US)
 **Description**: A personal projects initially for exclusive personal use that I decided to publish so that friends can easily download it. It helps the user to easily see the average daily fuel prices per region in Italy (Gasoline, diesel and LPG) and also find the most convenient gas stations around. It uses freely available data from the Fuel Price Observatory of the Ministry of Business and Made in Italy.
 
-The app is freely available to download on both the Google Play Store and the Apple Store and a big update will be released in 2024.
+The app is freely available to download on both the Google Play Store and the Apple Store and a big update will be released at the end of 2024.
 
 
 **Technologies**: Dart, Flutter, flutter_map, geolocator, google_mobile_ads
