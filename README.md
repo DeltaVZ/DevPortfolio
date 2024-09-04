@@ -36,7 +36,7 @@ Below is a list of selected projects. Click on the project names to visit their 
 
 
 ### 3. [Web Crawler Challenge](https://github.com/DeltaVZ/web_crawler_challenge)
-**Description**: The challenge asked to create an performant web crawler
+**Description**: The challenge asked to create a performant web crawler
 
 **Technologies**: Python, pipenv, asyncio, aiohttp, beautifulsoup, mockito, html, UML
 
