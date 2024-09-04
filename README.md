@@ -24,7 +24,7 @@ Below is a list of selected projects. Click on the project names to visit their 
 ### 2. [power-profiles-enhancer](https://github.com/DeltaVZ/power-profiles-enhancer)
 **Description**: Power Profiles Enhancer is a tool designed to enhance the capabilities of the power profiles daemon on Linux systems. By leveraging a custom Python script and configuration through INI files, this project adds additional functionality and optimizations, allowing users to better manage power consumption based on their specific needs.
 
-**Technologies**: Python, virtual environment, configparser, subprocess, systemd, power-profiles-daemon
+**Technologies**: Python, Bash, venv, configparser, subprocess, systemd, power-profiles-daemon
 
 **Highlights**:
 - **Python**: Clean code written in Python with the use of libraries such as subprocess and configparser
@@ -44,4 +44,4 @@ Thank you for visiting my portfolio!
 
 ---
 
-*This README was last updated on 2024.09.03.*
+*This README was last updated on 2024.09.04.*
