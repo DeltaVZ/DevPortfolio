@@ -92,6 +92,54 @@ The app is freely available to download on both the Google Play Store and the Ap
 - **Flutter Map**: Proven experience in the use of Flutter Map and geolocation services
 - **Google Mobile Ads**: Demonstrates my ability to integrate google mobile ads seamlessly in my mobile app
 
+## Company Projects
+
+### 1. [Pleniter Plan](https://www.cgi.com/en/solutions/pleniter)
+**Description**: I was one of the lead developers of Pleniter Plan for almost 3 years. Pleniter Plan handles all of the regular and special task requirements for a mission system’s infrastructure, spacecraft platforms and payload. Produces consistent and conflict-free scheduling and payload process monitoring for multiple spacecraft, ground stations and control centers.
+
+
+**Technologies**: Java, Ruby, MySQL, PostgreSQL, TestNG, JUnit, Mockito, Gitlab Pages
+
+**Highlights**:
+- **Java**: Considerable experience gained in this role
+- **Ruby**: Used to write multiple scripts, especially for component tests
+- **Gitlab Pages**: Set up and maintained the whole documentation infrastructure via Gitlab Pages
+- **MySQL and PostgreSQL**: Gained considerable experience in the APIs for Java
+- **Unit, Integration and Component tests**: I wrote unit tests with 90%+ coverage, as well as Integration and Component Tests that would test the interaction with external APIs (PostgreSQL) and different components of the Pleniter Suite.
+
+### 2. [Aurora - Cloud Based Mission Control Software](https://www.dorbit.space/aurora)
+**Description**: I was a developer of Aurora: a powerful cloud-based mission control software suite designed to control a single satellite or a complete constellation through a user-friendly, fully customizable control web interface.
+
+
+**Technologies**: Python, unittest, Kotlin, Asyncio, Threading, FastAPI, Kubernetes, AWS (Amazon Web Services), Apache Kafka
+
+**Highlights**:
+- **Python and Kotlin**: Honed my skills in Python and learned Kotlin
+- **Unit testing**: Gained considerable experience in Python unit testing using the unittest library
+- **Asyncio and Threading**: I improved my skills in Asynchronous and Parallel programming,
+- **FastAPI**: Developed one API based on FastAPI
+- **Kubernetes and AWS**: Made use of Kubernetes and AWS on a daily basis
+- **Apache Kafka**: Gained proficiency in event-driven architectures with substantial experience in designing and implementing scalable messaging systems using Apache Kafka
+
+### 3. [Okapi:Aether, Okapi:Soteria and Okapi:Astrolabe](https://www.okapiorbits.space/)
+**Description**: I am the lead developer of Okapi:Aether (Backend and API) and Backend developer of both Okapi:Soteria and Okapi:Astrolabe.
+
+- **Okapi:Aether**: Offers Risk Prediction & Collision Avoidance services with unerring accuracy.
+- **Okapi:Soteria**: Optimizes the design and ensures your a mission's compliance with all relevant space debris mitigation requirements.
+- **Okapi:Astrolabe**: Streamlines collision avoidance cooperation between active satellites and minimize the requirement for constant oversight. The most efficient way to manage one or multiple satellites.
+
+
+**Technologies**: Java, Python, Typescript, MongoDB, RabbitMQ, Docker, DevContainers, Mockito, Test Containers, TestNG, JUnit, pytest
+
+**Highlights**:
+- **Java and Python**: This role has advanced my Java and Python skills to a Senior level, reflecting extensive experience and expertise in both languages.
+- **Typescript**: My skills in Typescript advanced to intermediate level thanks to the work on the API of Okapi:Aether
+- **Unit and Integration Tests**: I applied Test Driven Development on every ticket I worked on. I mainly used TestNG and JUnit with Java and pytest with Python. I've used Mockito extensively, as well as Test Containers for integration tests in order to have containerized instances of both MongoDB and RabbitMQ for efficient integration testing
+- **Docker and DevContainers**: I created DevContainers for both Okapi:Aether and Okapi:Soteria, thus allowing all developers to have the same development environment, configuration and plug-ins and to extremely reduce the time to set up the projects from scratch
+- **MongoDB**: Gained considerable experience in NoSQL and MongoDB in particular, especially with its Java and Javascript APIs.
+- **RabbitMQ**: Gained proficiency in event-driven architectures with substantial experience in designing and implementing scalable messaging systems using RabbitMQ
+
+
 ## Contact
 
 Feel free to reach out if you have any questions or if you’d like to discuss potential opportunities:
