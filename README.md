@@ -11,15 +11,28 @@ I am Software Engineer with a Master's Degree in Space and Astronautical Enginee
 
 Below is a list of selected projects. Click on the project names to visit their respective repositories.
 
-### 1. [Risk Estimation Challenge](https://github.com/DeltaVZ/risk_estimation_challenge)
+### 1. [Risk Estimation Challenge](https://github.com/DeltaVZ/RiskEstimationChallenge)
 **Description**: The challenge provided some JNI functions and asked to create Java code so that risk estimations with problematic theta values in their risk trend are not suggested
 
 **Technologies**: Java, Maven, MongoDB, TestNG, Mockito, Docker, Test Container, UML
 
 **Highlights**:
-- Use of Java coupled with MongoDB API
-- Extensive code coverage thanks to TestNG, Mockito and Test Containers that create a containerized instance of MongoDB
-- UML diagrams produced via PUML
+- **Java and MongoDB API**: Use of Java coupled with MongoDB API
+- **Integration testing**: Extensive code coverage thanks to TestNG, Mockito and Test Containers that create a containerized instance of MongoDB
+- **UML**: UML diagrams produced via PUML
+
+### 2. [power-profiles-enhancer](https://github.com/DeltaVZ/power-profiles-enhancer)
+**Description**: Power Profiles Enhancer is a tool designed to enhance the capabilities of the power profiles daemon on Linux systems. By leveraging a custom Python script and configuration through INI files, this project adds additional functionality and optimizations, allowing users to better manage power consumption based on their specific needs.
+
+**Technologies**: Python, virtual environment, configparser, subprocess, systemd, power-profiles-daemon
+
+**Highlights**:
+- **Python**: Clean code written in Python with the use of libraries such as subprocess and configparser
+- **Linux Service**: Runs as a Linux service for seamless integration and automatic application of enhancements.
+- **Bash**: Includes a bash install script
+- **Power Optimization**: Optimizes power consumption for different use cases, improving battery life or performance.
+- **Custom Profiles**: Supports multiple customizable power profiles for various scenarios.
+- **User-Friendly**: Simple to configure and use, suitable for all levels of Linux users.
 
 ## Contact
 
