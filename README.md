@@ -50,6 +50,28 @@ Below is a list of selected open source projects. Click on the project names to 
 - **Highly configurable**: Extensive configuration is possible for different kinds of uses
 - **UML**: UML diagrams produced via PUML
 
+
+### 4. [Gamestop EU Scraper](https://github.com/DeltaVZ/gamestop-eu-scraper)
+**Description**: This MIT project is a scraper for EU Gamestop websites. It can be configured to:
+
+- Check if any product is in stock
+- Check if any search page has any given keyword or if the obtained results are different from the expected ones
+- Check for all product IDs in given ranges if they contain any given keywords
+
+During a time when certain tech products were in high demand and sold out everywhere, creating a secondary market with exorbitant prices, this tool was developed to help individuals acquire these products at their original retail prices.
+
+**Technologies**: Python, asyncio, aiohttp, beautifulsoup, html, telethon API, unittest, mockito
+
+**Highlights**:
+- **Python and Asyncio**: Use of Python coupled with the asyncio library to write performant concurrent code
+- **Event Loop**: Demonstrates the use of asyncio's event loop to manage and schedule asynchronous tasks, ensuring smooth handling of concurrent operations
+- **Asynchronous HTTP Requests**: Utilizes aiohttp to perform asynchronous HTTP requests, allowing the application to handle multiple requests concurrently without blocking, which is essential for high-performance applications
+- **Efficient I/O Handling**: Shows how to efficiently manage I/O-bound operations, such as API calls and data fetching, by utilizing asynchronous features to avoid traditional threading or blocking calls.
+- **HTML parsing**: Efficient HTML parsing using beautifulsoup4
+- **Unit testing**: Extensive code coverage thanks to unittest and mockito
+- **Highly configurable**: Extensive configuration is possible for different kinds of uses
+- **Telethon API**: Use of Telethon API to notify users via Telegram messages when needed
+
 ## Individual Closed Source Projects
 
 ### 1. [Neurodieta](https://play.google.com/store/apps/details?id=com.drcuzzola.nutrizioneconsapevole.neurodieta&hl=en_US)
