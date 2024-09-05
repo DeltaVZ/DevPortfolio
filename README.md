@@ -6,7 +6,7 @@ Please note that coding challenges are anonymized and only published several mon
 
 ## About Me
 
-I am **Software Engineer** with a **Master's Degree in Space and Astronautical Engineering** and with a **5 years experience in Software Engineering in the Space Sector**. I am passionate about Space and have extensive experience in Java and Python and some experience in Dart and Typescript. This portfolio includes projects that highlight my skills and accomplishments in Java, Python and Typescript.
+I am **Software Engineer** with a **Master's Degree in Space and Astronautical Engineering** and with a **5 years experience in Software Engineering in the Space Sector**. I am passionate about Space and have extensive experience in Java, Python, Dart and Typescript. This portfolio includes projects that highlight my skills and accomplishments in software engineering.
 
 ## Open Source Projects
 
