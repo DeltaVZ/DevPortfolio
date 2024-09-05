@@ -72,6 +72,25 @@ During a time when certain tech products were in high demand and sold out everyw
 - **Highly configurable**: Extensive configuration is possible for different kinds of uses
 - **Telethon API**: Use of Telethon API to notify users via Telegram messages when needed
 
+### 5. [ISS Tracker](https://github.com/DeltaVZ/iss-tracker)
+**Description**: This full-stack challenge involved creating an API to store the ISS location and daylight windows in a database, making this data available for client queries. The project also included a client application developed providing a map that shows the ISS location updated every 20 seconds and a list on the site showing the ISS daylight windows
+
+
+
+**Technologies**: Python, Typescript, FastAPI, SlowApi, SQLAlchemy, asyncio, aiohttp, uvicorn, Nuxt3, mapbox, axios, pytest, pytest-mock, UML
+
+**Highlights**:
+- **Python and FastAPI**: Use of Python coupled with FastAPI to build a high-performance, modern API with automatic interactive documentation.
+- **TypeScript and Nuxt3**: Developed a modern, server-side rendered application using Nuxt3, with TypeScript to ensure type safety and enhance development efficiency. This combination improved performance, code quality, and maintainability while providing a robust interface for interacting with the API.
+- **SlowApi**: Integrated SlowApi to handle API rate limiting and throttle requests effectively.
+- **SQLAlchemy**: Employed SQLAlchemy for ORM-based database interactions, enabling efficient and flexible data handling.
+- **Uvicorn**: Deployed the application using uvicorn, an ASGI server, to handle asynchronous web requests efficiently.
+- **Mapbox**: Integrated Mapbox in the frontend to provide interactive and customizable mapping solutions, enhancing the visualization of geospatial data.
+- **Axios**: Employed Axios in the frontend for making HTTP requests, ensuring efficient and reliable data fetching from the backend API.
+- **Unit testing**: Extensive code coverage thanks to pytest and pytest-mock
+- **Configurable**: Configuration is possible for different kinds of uses, such as enabling and disabling the API rate limit
+- **UML**: UML diagrams produced via PUML
+
 ## Individual Closed Source Projects
 
 ### 1. [Neurodieta](https://play.google.com/store/apps/details?id=com.drcuzzola.nutrizioneconsapevole.neurodieta&hl=en_US)
