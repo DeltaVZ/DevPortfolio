@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! Here, you can find a curated list of my personal projects and coding challenge that I worked on for fun or for some companies, showcasing my skills and expertise in various areas. Each project is housed in its own GitHub repository, which you can explore for more detailed information and source code.
+Welcome to my portfolio repository! Here, you can find a curated list of my personal projects, coding challenges that I worked on for fun or for some companies and projects I've worked on during my career, showcasing my skills and expertise in various areas. Each project is housed in its own GitHub repository, which you can explore for more detailed information and source code.
 Each coding challenge is anonymized and only pushed several months after the successful completion of them, so there's no way for a company to be exposed.
 
 ## About Me
